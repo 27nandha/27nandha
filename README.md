@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nandhakumar!<br>I'm a passionate Full-Stack Developer who loves building scalable web applications and solving real-world problems with clean, maintainable code. I'm currently pursuing my MCA at SD University and work as a part-time Full-Stack Developer at Nexus International Alliance Pvt Ltd.<br>🛠️ Tech Stack<br>- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS<br>- **Backend:** Node.js, Express.js, Flask<br>- **Databases:** MongoDB Atlas, PostgreSQL, SQL<br>- **Other Tools:** Git, GitHub, VS Code, Puppeteer, Streamlit, Redux<br>- **Special Interests:** AI + Web Integration, Data Visualization, PDF Automation, MERN Stack Development<br>
+👋 Hi, I'm Nandhakumar!<br>I'm a passionate Full-Stack Developer who loves building scalable web applications and solving real-world problems with clean, maintainable code. I'm currently pursuing my MCA at SRM University and work as a Web Developer Intern in Redback IT Solutions.<br>🛠️ Tech Stack<br>- **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind CSS<br>- **Backend:** Node.js, Express.js, Flask<br>- **Databases:** MongoDB Atlas, PostgreSQL, SQL<br>- **Other Tools:** Git, GitHub, VS Code, Puppeteer, Streamlit, Redux<br>- **Special Interests:** AI + Web Integration, Data Visualization, PDF Automation, MERN Stack Development<br>
 
 
 ## 🌐 Socials:
